@@ -1,16 +1,19 @@
-## Hi there 👋
+**ola bem vindo ao meu perfil eu sou kaique roberto**
 
-<!--
-**kaique2804/kaique2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou estudando na [alura](hdttps://www.alura.com.br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na liguagem javascript
+
+![](https://media1.tenor.com/m/aw-2ziyepAoAAAAC/rachael-gunn-raygun.gif)
+
+
+
+
+
+
+
+
+
+
+
